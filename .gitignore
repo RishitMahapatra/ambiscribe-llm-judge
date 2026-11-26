@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Run outputs (keep summarised results in findings.md instead)
+results/
+*.log

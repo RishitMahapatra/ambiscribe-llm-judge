@@ -1,0 +1,572 @@
+[
+    {
+      "id": "consult_01",
+      "language": "en",
+      "transcript": [
+        {
+          "speaker": "Doctor",
+          "text": "Morning, come on in, have a seat. So... what brings you in today?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Uh, morning. It's my back. Probably nothing, honestly, my wife just made me come."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Well, let's have a look anyway. How long has it been bothering you?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Since, um... Saturday. Yeah, Saturday. We moved flats and I was carrying boxes up three flights of stairs, and on the last flight something sort of pulled."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "So about four days now. Where exactly is the pain?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Low down, on the right side. Just above the belt, more or less."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Does it travel anywhere? Down into your buttock or your leg?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No, no. It just sits there. Well... it catches sometimes when I turn, but it doesn't go anywhere."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Any numbness or pins and needles in your legs, or around your groin?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No. Nothing like that."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "And your waterworks and bowels, all normal? No trouble passing urine, no accidents?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Ha, no. All normal."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Good. Any fever, or weight loss you can't explain?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No fever. Weight's the same. If anything I've put some on, my wife says."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "On a scale where zero is nothing and ten is the worst pain imaginable, how bad is it?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Um... a six? When I bend down to put my socks on it's more like a seven. Sitting's fine, I drive a delivery van so I'm sitting all day, but climbing out of the van, uh, that's a bit sharp."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "What have you taken for it?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "A couple of paracetamol on Sunday, and one ibuprofen yesterday, I think. Didn't really notice much difference."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Have you had back trouble before?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Once. Years ago, maybe ten? It went away by itself."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Okay. Can you stand up for me and bend forward as far as you can... mm-hm, and come back up. Now hop on the couch and lie on your back. I'm going to lift this leg. Any pain going down the leg?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Just a pull in my back. Not down the leg."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Other side. Okay. Now push against my hand... and the other one. Good, equal strength. Knee reflexes are normal too."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Right, so the muscles on the right side of your lower back are tender and tight, and you're a bit stiff bending forward, but the nerve tests are all normal. This fits with a strained muscle, what we call mechanical back pain."
+        },
+        {
+          "speaker": "Patient",
+          "text": "So it's not a disc or something? My brother had a slipped disc and he was in bed for weeks."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Nothing here points to that. No leg symptoms, no tingling, normal strength. And honestly, bed rest is the worst thing for this. Staying moving is better."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Okay. So what do I take? The paracetamol didn't do much."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "I'd go with ibuprofen, 400 milligrams, three times a day, always with food, for up to a week. You can add paracetamol, up to a thousand milligrams four times a day, if it's still sore. A warm pad on the back can help too."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Do I need a sick note? I mean, I can probably still drive..."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Not necessarily. Keep working if you can manage, just avoid heavy lifting for a bit. If you find you can't do the job, call me. And come back right away if you get numbness, weakness in a leg, or any problem with your bladder or bowels. Otherwise, if it isn't clearly better in two weeks, come and see me again."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Alright. Thanks, doctor."
+        }
+      ]
+    },
+    {
+      "id": "consult_02",
+      "language": "en",
+      "transcript": [
+        {
+          "speaker": "Doctor",
+          "text": "Hi, come in, sit down. What can I do for you today?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Hi. Um, so, this is a bit embarrassing, but I think I've got a bladder infection? Again."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "That's nothing to be embarrassed about, it's really common. Tell me what's been happening."
+        },
+        {
+          "speaker": "Patient",
+          "text": "It started last night. A burning feeling when I pee, and I need to go all the time, like every twenty minutes, and then only a tiny bit comes out."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Okay. Any blood in the urine?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Hmm... this morning it looked a bit pink? Maybe. I'm not sure, I had beetroot salad yesterday so it could just be that."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Fair enough, we'll check that. Any fever or shivering? Pain in your sides or your back?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No fever, I feel fine otherwise. There's a dull ache low down in my tummy, but not in my back. A friend of mine had kidney stones and she said it started in the back, so I was a bit worried at first."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Pain low in the tummy fits with the bladder. Any discharge or itching down below?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No, nothing like that."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "And is there any chance you could be pregnant?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No... well, my period's due in about three days, but I'm on the pill and I take it properly, so no."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Okay. You said 'again'. When was the last infection?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Uh, about eight months ago? Maybe seven. I got antibiotics from, um, another doctor, one covering for you I think. A short course, and it worked."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Do you remember which antibiotic?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Nitro... something? Little capsules."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Probably nitrofurantoin. Any allergies to medication?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No, none."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Good. Let me feel your tummy. Tell me if anything hurts... here?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Ow, yeah, a bit. Just above the bone."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Mild tenderness just above the pubic bone. And I'll tap on your back, either side... no pain there? Good. Your temperature is 36.9, so no fever. And you brought a urine sample, thanks. The dipstick shows nitrite positive, white cells two plus, and a trace of blood."
+        },
+        {
+          "speaker": "Patient",
+          "text": "So it is an infection."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Yes, a straightforward bladder infection, cystitis. Nothing to suggest the kidneys are involved. I'll prescribe nitrofurantoin, 100 milligrams modified release, twice a day for five days, with food."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Okay. Should I stop drinking coffee or something?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "You don't have to, but drink plenty of water. Paracetamol is fine for the discomfort. If you get a fever, pain in your back, or you start vomiting, or if it hasn't improved in two to three days, call us straight away. And if these infections keep coming back, we'll think about looking into it further."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Great, thank you so much."
+        }
+      ]
+    },
+    {
+      "id": "consult_03",
+      "language": "en",
+      "transcript": [
+        {
+          "speaker": "Doctor",
+          "text": "Good afternoon. Take a seat. This is your blood pressure review, correct?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Yes, yes. Uh, I brought my notebook. My daughter said I should write the numbers down, so I did. Most days."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Excellent. What have the readings been?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Let me find... um, here. Mostly one-forty-something over eighty-something. The highest was one fifty-eight over ninety-two, but that was after the neighbours' barbecue, so, you know, salty sausages."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Understood. Are you taking the amlodipine every day, five milligrams?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Mostly. Well... two or three days a week I forget. The mornings are chaos, I've got the dog, he's a labrador, and he's got this thing where he, uh, he won't go out unless..."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Let's keep to the point. Could you leave the tablet next to your toothbrush?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Oh, that's a good idea, actually."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Any side effects? Headaches, dizziness?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No dizziness. But my ankles swell up by the evening. My socks leave marks. I thought it was just age. It started, hm, maybe a month or two after I began the tablets? So spring, I suppose."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Any chest pain or breathlessness?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No, no. I walk the dog for an hour every day, no trouble at all."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Do you smoke? And how much do you drink?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Stopped smoking in 2009. Alcohol, a couple of beers at the weekend. Maybe three on Saturday."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "All right. Let me take your pressure. ... It's 152 over 94, pulse 72 and regular. Let me look at your ankles. Yes, mild pitting swelling on both sides. Heart sounds are normal and the lungs are clear."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Is that bad? The numbers?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "It's above where we want it. And the ankle swelling is most likely a side effect of the amlodipine. So I'd like to stop it and switch you to lisinopril, 10 milligrams once daily, in the morning."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Can I finish the amlodipine box first? I've got half a box left."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "No, stop it and start the lisinopril tomorrow. I'd like a blood test in one to two weeks to check your kidney function and potassium. Some people get a dry cough with lisinopril, so let me know if that happens."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Right. And the diary, keep going with that?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Yes please, keep writing the numbers down. Cut back on salt where you can. Bring the diary and we'll recheck in four weeks."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Okay. Toothbrush. Got it."
+        }
+      ]
+    },
+    {
+      "id": "consult_04",
+      "language": "en",
+      "transcript": [
+        {
+          "speaker": "Doctor",
+          "text": "Hello, hi there. And who do we have here?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "This is Noah, he's four. Um, he's had this cough for about five days now, and last night was really bad, I barely slept, and he was making this, uh, whistling sound when he breathed."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "A whistling sound. Was that when he was breathing in or out?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "Out, I think? It's hard to tell... yeah, out. Mostly when he was lying down."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Okay. Has he had a fever?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "The first day, yes. Thirty-eight, maybe thirty-eight point two, I gave him paracetamol and it went away. Nothing since Sunday."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Is he eating and drinking?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "Drinking, yes. Eating not so much, but he's picky anyway. He did have yoghurt and half a banana this morning."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "And is he peeing normally?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "Yes, yes, that's fine."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Is he bringing anything up when he coughs? Phlegm?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "It sounds wet. Sometimes he gags a bit. No blood or anything like that."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Has he had wheezing before? Asthma, eczema?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "Um... he had bronchiolitis when he was one, in the winter, but that's it. And a bit of eczema as a baby."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Does he go to daycare? Anyone else unwell?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "Three days a week. Half the group has been coughing, honestly."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Any smoking in the house?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "No, no."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "And his vaccinations are up to date?"
+        },
+        {
+          "speaker": "Parent",
+          "text": "Yes, all done."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Great. Noah, can I listen to your chest? Big breaths for me, like a dragon..."
+        },
+        {
+          "speaker": "Parent",
+          "text": "He's a bit shy. Come on, sweetheart."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "That's fine, he's doing well. Temperature is 36.8. Breathing rate 28 a minute, which is fine for his age. Oxygen level 97 percent. Throat's a little red, ears look normal. In the chest, there's some wheeze when he breathes out, both sides, but no crackles, and he's not working hard to breathe, no pulling in at the ribs."
+        },
+        {
+          "speaker": "Parent",
+          "text": "So what is it?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "This looks like a viral chest infection with some mild wheezing. No sign of pneumonia."
+        },
+        {
+          "speaker": "Parent",
+          "text": "Oh. My neighbour said he'd definitely need antibiotics."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Antibiotics only work on bacteria, and this is a virus, so they wouldn't help. What I'd do is give him a salbutamol inhaler with a spacer, two puffs up to every four hours when he's wheezy or coughing a lot. I'll show you how to use it. Keep him drinking, and paracetamol if he's uncomfortable, dose on the packet according to his weight."
+        },
+        {
+          "speaker": "Parent",
+          "text": "And when can he go back to daycare?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Once he's fever-free and breathing comfortably. Come back or call if he's breathing fast or struggling, if you see his ribs pulling in, if he won't drink, or if the fever comes back. And if he's still wheezy in a week, bring him in again."
+        },
+        {
+          "speaker": "Parent",
+          "text": "Okay, thank you, that's a relief."
+        }
+      ]
+    },
+    {
+      "id": "consult_05",
+      "language": "en",
+      "transcript": [
+        {
+          "speaker": "Doctor",
+          "text": "Hi, come in. How are you doing?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Honestly? Tired. Um, that's why I'm here, really. I've been exhausted for about two months and I thought it would pass, but it hasn't."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Two months. Is it there all day, or at certain times?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "All day. I wake up and I'm already tired. By three in the afternoon I could just... fall asleep at my desk. I started a new job in September too, so I thought, you know, it's the stress. But..."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "How's your sleep?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Not great. I fall asleep fine, but I wake up around four and then I'm just lying there thinking about emails. Maybe six hours a night, in total."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Does anyone notice snoring, or you stopping breathing at night?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Ha, my husband says I snore sometimes, but nothing dramatic."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Okay. Any weight change, fevers, night sweats?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "No... well, I haven't weighed myself. My jeans fit the same."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "What about appetite and diet?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Appetite's fine. I'm mostly vegetarian, though. I eat fish sometimes."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "And your periods, how are they?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Heavy. They've been heavy for a while, like a year. The first three days I change something every two or three hours. Regular though, every twenty-eight days."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Any shortness of breath, palpitations, dizziness when you stand up?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "A bit breathless on the stairs at work, I noticed that. No palpitations. No dizziness, really."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Have you been feeling low in mood, or lost interest in things?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Um... a bit flat, maybe, but I think that's just because I'm tired. I still enjoy things. I saw friends on Saturday and had a lovely time."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Are you on any medication or supplements?"
+        },
+        {
+          "speaker": "Patient",
+          "text": "Nothing. Occasionally an ibuprofen for period pain."
+        },
+        {
+          "speaker": "Doctor",
+          "text": "Let me check a few things. Blood pressure is 118 over 74, pulse 72 and regular. Your eyelids look a bit pale on the inside. Thyroid isn't enlarged. Heart and lungs sound normal, and your tummy is soft and not tender."
+        },
+        {
+          "speaker": "Patient",
+          "text": "So what do you think it is?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "It could be several things, and probably a mix. Heavy periods and a mostly vegetarian diet make me think of low iron. We should also check your thyroid, vitamin B12 and blood sugar. The poor sleep and the new job are probably contributing as well."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Should I just buy iron pills in the meantime?"
+        },
+        {
+          "speaker": "Doctor",
+          "text": "I'd wait for the results first. I'll order a full blood count, ferritin, TSH, B12 and glucose. I'll phone you with the results in three or four days. In the meantime, try a regular sleep schedule, screens off an hour before bed, and no caffeine after noon. Let's see each other again in two weeks to go through everything and talk about the heavy periods."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Okay. Thank you, that's a relief, I thought it was all in my head."
+        }
+      ]
+    }
+  ]
