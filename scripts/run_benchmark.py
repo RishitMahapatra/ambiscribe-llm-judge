@@ -1,11 +1,11 @@
 from tqdm import tqdm
 from langchain_ollama import ChatOllama
 
-from loader import load_views, format_transcript
-from schemas import SOAP
-from prompts import GENERATOR_PROMPT, split_sentences
-from judge import judge_section
-from scoring import score_section
+from ambiscribe.loader import load_views, format_transcript
+from ambiscribe.prompts import GENERATOR_PROMPT, split_sentences
+from ambiscribe.schemas import SOAP
+from ambiscribe.judge import judge_section
+from ambiscribe.scoring import score_section
 
 CONSULT_ID = "consult_01"
 SECTIONS = ["subjective", "objective", "assessment", "plan"]

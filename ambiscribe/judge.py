@@ -1,9 +1,9 @@
 from langchain_ollama import ChatOllama
 from langchain_core.runnables import RunnableParallel 
-from schemas import FactCheckResult, KeyFactAlignment
+from .schemas import FactCheckResult, KeyFactAlignment
 
-from prompts import KEY_FACT_PROMPT , FACT_CHECK_PROMPT #importing the prompts 
-from prompts import split_sentences, numbered #importing the functions 
+from .prompts import KEY_FACT_PROMPT , FACT_CHECK_PROMPT #importing the prompts 
+from .prompts import split_sentences, numbered #importing the functions 
 
 JUDGE_MODEL = "deepseek-r1:latest"
 judge_llm = ChatOllama(model=JUDGE_MODEL, temperature=0, seed=42, num_ctx=8192, num_predict=3072, keep_alive="30m", reasoning=False)

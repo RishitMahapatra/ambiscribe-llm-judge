@@ -1,5 +1,5 @@
 # scoring.py
-from prompts import split_sentences
+from .prompts import split_sentences
 
 
 def score_section(text: str, n_key_facts: int, fact, align) -> dict:
